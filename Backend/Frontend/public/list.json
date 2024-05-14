@@ -1,0 +1,92 @@
+[
+    {
+        "id " : 1,
+        "name" : "Story Book",
+        "title" : "The Beast in The Dark City",
+        "price": 0,
+        "category": "free",
+        "image" : "image1.png" 
+    },
+    {
+        "id " : 2,
+        "name" : "Scifi Book",
+        "title" : "The Beast in City",
+        "price": 0,
+        "category": "free",
+        "image" : "image2.jpg" 
+    },
+    {
+        "id " : 3,
+        "name" : "Crime Book",
+        "title" : "The Demon In the Picture",
+        "price": 0,
+        "category": "free",
+        "image" : "image3.jpg" 
+    },
+    {
+        "id " : 4,
+        "name" : "Mystery Book",
+        "title" : "Secret of the Jilted School Boys",
+        "price": 0,
+        "category": "free",
+        "image" : "image4.jpg" 
+    },
+    {
+        "id " : 5,
+        "name" : "Romance Book",
+        "title" : "My Kingdom Of Thirst",
+        "price": 0,
+        "category": "free",
+        "image" : "image5.jpg" 
+    },
+    {
+        "id " : 6,
+        "name" : "Story Book",
+        "title" : "The Man Who Was Thursday",
+        "price": 0,
+        "category": "paid",
+        "image" : "image6.png" 
+    },
+    {
+        "id " : 7,
+        "name" : "Romance Book",
+        "title" : "Bury My Heart at Wounded Knee",
+        "price": 399,
+        "category": "paid",
+        "image" : "image7.jpg" 
+    },
+    {
+        "id " : 8,
+        "name" : "Motivtional Book",
+        "title" : "Brave New World",
+        "price": 299,
+        "category": "paid",
+        "image" : "image8.jpg" 
+    },
+    {
+        "id " : 9,
+        "name" : "Mystery Book",
+        "title" : "The Devil Wears Prada",
+        "price": 199, 
+        "category": "paid",
+        "image" : "image9.jpg" 
+    },
+    {
+        "id " : 10,
+        "name" : "Scifi Book",
+        "title" : "The Curious Incident of the Dog in the Night",
+        "price": 499,
+        "category": "paid",
+        "image" : "image10.jpg" 
+    },
+    {
+        "id " : 11,
+        "name" : "Mystery Book",
+        "title" : "And Then There Were None",
+        "price": 0,
+        "category": "free",
+        "image" : "image10.jpg" 
+    }
+    
+
+]
