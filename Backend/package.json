@@ -6,8 +6,8 @@
     "type": "module",
     "scripts": {
         "dev": "nodemon index.js",
-        "start": "node index.js",
-        "build": "npm install vite --save-dev && npm install && npm install --prefix Frontend && npm run build --prefix Frontend"
+        "start": "node index.js"
+        
     },
     "repository": {
         "type": "git",
